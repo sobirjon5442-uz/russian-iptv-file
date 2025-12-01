@@ -1,0 +1,15 @@
+
+#EXTM3U
+# Federal + Music + Kids (~60 kanal)
+#EXTINF:-1 group-title="Federal",Moscow 24
+https://edge01.mediacdn.ru/live/m24/smil:m24.smil/master.m3u8
+#EXTINF:-1 group-title="Federal",Doverie
+https://edge01.mediacdn.ru/live/doverie/smil:doverie.smil/master.m3u8
+#EXTINF:-1 group-title="Music",Bridge TV
+https://bridgetv-live.cdnvideo.ru/bridgetv/smil:btv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Bridge TV Classic
+https://bridgetv-live.cdnvideo.ru/classic/smil:classic.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Detskiy Mir
+https://sc.id-tv.kz/DetskiyMir_34_35.m3u8
+#EXTINF:-1 group-title="Kids",Ani TV
+https://livetv.mtrk-anitv.ru/hls/anitv.m3u8
